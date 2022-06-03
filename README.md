@@ -1,7 +1,7 @@
 # I'm  Angelica :blush: :computer:
 
 - Front-End Web Developer -- ReactJS
-- UX/UI design student
+- UX/UI designer
 - tech analyst student
 
 venezuelan living in Argentina 
